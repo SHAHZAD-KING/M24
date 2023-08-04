@@ -6,4 +6,4 @@ git clone https://github.com/shahzadrahimy/M24-TECHNICAL.git
 
 cd M24-TECHNICAL
 
-python M24-TECHNICAL.pyc
+python M24.pyc
