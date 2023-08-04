@@ -1,9 +1,9 @@
 # M24-TECHNICAL
 
-rm -rf M24
+rm -rf AFG-M24
 
 git clone https://github.com/shahzadrahimy/M24-TECHNICAL.git
 
 cd M24-TECHNICAL
 
-python M24.pyc
+python AFG-M24.pyc
